@@ -11,8 +11,8 @@
 
 ## Redes sociais
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/gbsouza/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/gbsouza/" /></a>
-<a href="https://instagram.com/https://www.instagram.com/gbarb0sa/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="https://www.instagram.com/gbarb0sa/" /></a>
+<a href="https://www.linkedin.com/in/gbsouza/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/gbsouza/" /></a>
+<a href="https://instagram.com/gbarb0sa/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="https://www.instagram.com/gbarb0sa/" /></a>
 <a href="https://discord.gg/godstavo_" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="godstavo_" /></a>
 </p>
 
